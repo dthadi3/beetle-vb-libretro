@@ -1,5 +1,8 @@
 language: generic
 os: linux
+arch:
+      - AMD64
+      - ppc64le
 dist: trusty
 sudo: required
 addons:
